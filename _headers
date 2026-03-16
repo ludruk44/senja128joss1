@@ -1,0 +1,8 @@
+/*
+  X-Robots-Tag: index, follow
+  Cache-Control: public, max-age=3600, s-maxage=86400
+  Access-Control-Allow-Origin: *
+
+/*.html
+  X-Content-Type-Options: nosniff
+  Content-Type: text/html; charset=utf-8
